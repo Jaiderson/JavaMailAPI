@@ -1,0 +1,6 @@
+JavaMail API Enviar mail.
+http://www.w3ii.com/es/javamail_api/javamail_api_quick_guide.html
+https://www.adictosaltrabajo.com/tutoriales/javamail/
+
+JavaMail API Leer mail de Inbox
+http://www.chuidiang.org/java/herramientas/javamail/leer-correo-javamail.php
